@@ -48,7 +48,7 @@ EVM Awesome List
 * [solidity-by-example](https://solidity-by-example.org/)
     - Solidity by Example
 
-## Courses
+## Tutorials & Courses
 
 * [udemy](https://www.udemy.com/course/blockchain-developer/?couponCode=SKILLS4SALEA)
     - Ethereum Blockchain Developer Bootcamp With Solidity

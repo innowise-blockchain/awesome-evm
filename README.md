@@ -1,4 +1,4 @@
-# awesome-evm
+# Awesome Ethereum Virtual Machine
 
 EVM Awesome List
 

@@ -25,3 +25,8 @@ EVM Awesome List
 
 * [evm-bench](https://github.com/ziyadedher/evm-bench)
     - A suite of Ethereum Virtual Machine (EVM) stress tests and benchmarks
+
+## Courses
+
+* [udemy](https://www.udemy.com/course/blockchain-developer/?couponCode=SKILLS4SALEA)
+    - Ethereum Blockchain Developer Bootcamp With Solidity

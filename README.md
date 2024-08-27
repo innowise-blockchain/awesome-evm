@@ -45,8 +45,14 @@ EVM Awesome List
     - Quick awesome repo to track dev tools in the solidity eco
 * [awesome-solidity-security](https://github.com/0xisk/awesome-solidity-security)
     - The purpose of this repo is to list all the related Research Papers focused on Smart-contracts security topics
+* [solidity-by-example](https://solidity-by-example.org/)
+    - Solidity by Example
 
 ## Courses
 
 * [udemy](https://www.udemy.com/course/blockchain-developer/?couponCode=SKILLS4SALEA)
     - Ethereum Blockchain Developer Bootcamp With Solidity
+* [cryptozombies](https://cryptozombies.io/)
+    - Learn to Code Blockchain DApps by Building Simple Games
+* [The Ethernaut](https://ethernaut.openzeppelin.com/)
+    - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org, played in the Ethereum Virtual Machine

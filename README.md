@@ -55,4 +55,5 @@ EVM Awesome List
 * [cryptozombies](https://cryptozombies.io/)
     - Learn to Code Blockchain DApps by Building Simple Games
 * [The Ethernaut](https://ethernaut.openzeppelin.com/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
     - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org, played in the Ethereum Virtual Machine
